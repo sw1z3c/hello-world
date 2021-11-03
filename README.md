@@ -1,2 +1,2 @@
 # hello-world
-Mz fist git repo
+My first git repo
